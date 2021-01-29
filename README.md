@@ -1,6 +1,7 @@
 # Gophish Analytics Script
 ---
 ## Installation
+Requirement: Will need to have Golang installed
 ```
 git clone https://github.com/cuckflong13/gophish-analytics.git
 cd gophish-analytics/
